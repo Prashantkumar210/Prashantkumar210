@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I'm Prashant Kumar, a passionate and self-driven Web Developer from India 🇮🇳. I love building modern web applications that solve real-world problems.<br>My tech stack revolves around JavaScript, React.js, Node.js, and MongoDB (MERN). I'm also exploring new technologies to stay ahead in the ever-evolving web world.<br><br>💻 Currently building: A project management tool like Trello<br><br>📚 Learning: Advanced React Patterns & TypeScript<br><br>⚙️ Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB<br><br>🛠 Tools: Git, GitHub, VS Code, Postman, Figma<br><br>🧠 Interests: UI/UX, Open Source, System Design
+# 👋 Hi there! I'm Prashant Kumar
+# A passionate and self-driven Web Developer from India 🇮🇳. I love building modern web applications that solve real-world problems.<br>My tech stack revolves around JavaScript, React.js, Node.js, and MongoDB (MERN). I'm also exploring new technologies to stay ahead in the ever-evolving web world.<br><br>💻 Currently building: A project management tool like Trello<br><br>📚 Learning: Advanced React Patterns & TypeScript<br><br>⚙️ Tech Stack: HTML, CSS, JavaScript, React, Node.js, Express, MongoDB<br><br>🛠 Tools: Git, GitHub, VS Code, Postman, Figma<br><br>🧠 Interests: UI/UX, Open Source, System Design
 
 
 ## 🌐 Socials:
